@@ -118,11 +118,11 @@ public class XmlSpriteDataInstance implements ISpriteInfo, XmlInstance{
         }
         else if (property.equals(tagDrawPointX) && value instanceof Float)
         {
-            return drawPoint.x == value;
+            return drawPoint.x == (int)value;
         }
         else if (property.equals(tagDrawPointY) && value instanceof Float)
         {
-            return drawPoint.y == value;
+            return drawPoint.y == (int)value;
         }
         return false;
     }

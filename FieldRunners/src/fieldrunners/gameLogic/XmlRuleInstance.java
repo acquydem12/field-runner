@@ -102,10 +102,10 @@ public class XmlRuleInstance implements IRule, XmlInstance{
             return mapName.equals(value);
         }
         else if(property.equals(tagMoney) && value instanceof Integer){
-            return money == value;
+            return money == (int)value;
         }
         else if(property.equals(tagHeart) && value instanceof Integer){
-            return heart == value;
+            return heart == (int)value;
         }
         else if(property.equals(tagHeartImage) && value instanceof String){
             return heartImage.equals(value);
@@ -117,7 +117,7 @@ public class XmlRuleInstance implements IRule, XmlInstance{
             return scoreFont.equals(value);
         }
         else if(property.equals(tagScore) && value instanceof Integer){
-            return score == value;
+            return score == (int)value;
         }
         else if(property.equals(tagHeartFont) && value instanceof Integer){
             return heartFont == value;

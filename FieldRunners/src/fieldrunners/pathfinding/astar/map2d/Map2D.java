@@ -90,7 +90,7 @@ public class Map2D
     {
         Vector<Node> neibourghs = new Vector<>(4);
         PointNode point = (PointNode) node;
-        if (point != null && this.getState(point) != Map2D.LOCKED)
+        if (point != null && (int)this.getState(point) != Map2D.LOCKED)
         {
             if (point.getCoordinate().x > 0 && (map[point.getCoordinate().x - 1][point.getCoordinate().y] == ASStates.MOVEABLE))
             {

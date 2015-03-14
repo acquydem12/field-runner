@@ -81,7 +81,7 @@ public class Store implements IStore, XmlInstance{
         }
         else if (property.equals(tagValue) && value instanceof Integer)
         {
-            return this.value == value;
+            return this.value == (int)value;
         }
         return false;
     }

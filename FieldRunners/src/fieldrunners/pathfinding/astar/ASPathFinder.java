@@ -69,7 +69,7 @@ public class ASPathFinder
             for (int i = 0; i < neibourghs.size(); i++)
             {
                 Node aNeibourgh = neibourghs.elementAt(i);
-                if (stateMap.getState(aNeibourgh) == ASStates.OPEN)
+                if ((int)stateMap.getState(aNeibourgh) == ASStates.OPEN)
                 {
                     open.add((ASNode) aNeibourgh);
                     finderFact.getPathBuilder().makeEdge(aNeibourgh, lowest);

@@ -190,7 +190,7 @@ public class XmlButtonInstance implements IButtonInfo, XmlInstance{
         }
         else if (property.equals(tagIsUntransform) && value instanceof Integer)
         {
-            return (this.isUntransform == true ? 1 : 0) == value;
+            return (this.isUntransform == true ? 1 : 0) == (int)value;
         }
         else if (property.equals(tagType) && value instanceof String)
         {
@@ -198,11 +198,11 @@ public class XmlButtonInstance implements IButtonInfo, XmlInstance{
         }
         else if (property.equals(tagWidth) && value instanceof Integer)
         {
-            return this.width == value;
+            return this.width == (int)value;
         }
         else if (property.equals(tagHeight) && value instanceof Integer)
         {
-            return this.height == value;
+            return this.height == (int)value;
         }
         else if (property.equals(tagClick) && value instanceof String)
         {
