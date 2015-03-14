@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FieldRunnerStates>
+    <!-- ALIVE -->
+    
+    
+    <!-- 4 dir-->
+    <State Name="East_Alive" Type="FRState">
+        <SubState ID="0" Value="0" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="North_Alive" Type="FRState">
+        <SubState ID="0" Value="16" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="West_Alive" Type="FRState">
+        <SubState ID="0" Value="32" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="South_Alive" Type="FRState">
+        <SubState ID="0" Value="48" />
+        <SubState ID="1" Value="0" />
+    </State>
+
+
+
+    <!-- 4 dir 2-->
+    
+    
+    
+    <State Name="EastNorth_Alive" Type="FRState">
+        <SubState ID="0" Value="8" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest_Alive" Type="FRState">
+        <SubState ID="0" Value="24" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth_Alive" Type="FRState">
+        <SubState ID="0" Value="40" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast_Alive" Type="FRState">
+        <SubState ID="0" Value="56" />
+        <SubState ID="1" Value="0" />
+    </State>
+    
+    
+    
+    <!-- 8 dir-->
+    
+    
+    
+    <State Name="EastNorth1_Alive" Type="FRState">
+        <SubState ID="0" Value="4" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth2_Alive" Type="FRState">
+        <SubState ID="0" Value="12" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest1_Alive" Type="FRState">
+        <SubState ID="0" Value="20" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest2_Alive" Type="FRState">
+        <SubState ID="0" Value="28" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth1_Alive" Type="FRState">
+        <SubState ID="0" Value="36" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth2_Alive" Type="FRState">
+        <SubState ID="0" Value="44" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast1_Alive" Type="FRState">
+        <SubState ID="0" Value="52" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast2_Alive" Type="FRState">
+        <SubState ID="0" Value="60" />
+        <SubState ID="1" Value="0" />
+    </State>
+    
+    
+    
+    <!-- 16 dir-->
+    
+    
+    
+    <State Name="EastNorth11_Alive" Type="FRState">
+        <SubState ID="0" Value="2" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth21_Alive" Type="FRState">
+        <SubState ID="0" Value="6" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth12_Alive" Type="FRState">
+        <SubState ID="0" Value="10" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth22_Alive" Type="FRState">
+        <SubState ID="0" Value="14" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest11_Alive" Type="FRState">
+        <SubState ID="0" Value="18" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest21_Alive" Type="FRState">
+        <SubState ID="0" Value="22" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest12_Alive" Type="FRState">
+        <SubState ID="0" Value="26" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest22_Alive" Type="FRState">
+        <SubState ID="0" Value="30" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth11_Alive" Type="FRState">
+        <SubState ID="0" Value="34" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth21_Alive" Type="FRState">
+        <SubState ID="0" Value="38" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth12_Alive" Type="FRState">
+        <SubState ID="0" Value="42" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth22_Alive" Type="FRState">
+        <SubState ID="0" Value="46" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast11_Alive" Type="FRState">
+        <SubState ID="0" Value="50" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast21_Alive" Type="FRState">
+        <SubState ID="0" Value="54" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast12_Alive" Type="FRState">
+        <SubState ID="0" Value="58" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast22_Alive" Type="FRState">
+        <SubState ID="0" Value="62" />
+        <SubState ID="1" Value="0" />
+    </State>
+    
+    
+    
+    <!-- 32 dir-->
+    
+    
+    
+    <State Name="EastNorth111_Alive" Type="FRState">
+        <SubState ID="0" Value="1" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth211_Alive" Type="FRState">
+        <SubState ID="0" Value="3" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth121_Alive" Type="FRState">
+        <SubState ID="0" Value="5" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth221_Alive" Type="FRState">
+        <SubState ID="0" Value="7" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth112_Alive" Type="FRState">
+        <SubState ID="0" Value="9" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth212_Alive" Type="FRState">
+        <SubState ID="0" Value="11" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth122_Alive" Type="FRState">
+        <SubState ID="0" Value="13" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="EastNorth222_Alive" Type="FRState">
+        <SubState ID="0" Value="15" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest111_Alive" Type="FRState">
+        <SubState ID="0" Value="17" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest211_Alive" Type="FRState">
+        <SubState ID="0" Value="19" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest121_Alive" Type="FRState">
+        <SubState ID="0" Value="21" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest221_Alive" Type="FRState">
+        <SubState ID="0" Value="23" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest112_Alive" Type="FRState">
+        <SubState ID="0" Value="25" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest212_Alive" Type="FRState">
+        <SubState ID="0" Value="27" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest122_Alive" Type="FRState">
+        <SubState ID="0" Value="29" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="NorthWest222_Alive" Type="FRState">
+        <SubState ID="0" Value="31" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth111_Alive" Type="FRState">
+        <SubState ID="0" Value="33" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth211_Alive" Type="FRState">
+        <SubState ID="0" Value="35" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth121_Alive" Type="FRState">
+        <SubState ID="0" Value="37" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth221_Alive" Type="FRState">
+        <SubState ID="0" Value="39" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth112_Alive" Type="FRState">
+        <SubState ID="0" Value="41" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth212_Alive" Type="FRState">
+        <SubState ID="0" Value="43" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth122_Alive" Type="FRState">
+        <SubState ID="0" Value="45" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="WestSouth222_Alive" Type="FRState">
+        <SubState ID="0" Value="47" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast111_Alive" Type="FRState">
+        <SubState ID="0" Value="49" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast211_Alive" Type="FRState">
+        <SubState ID="0" Value="51" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast121_Alive" Type="FRState">
+        <SubState ID="0" Value="53" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast221_Alive" Type="FRState">
+        <SubState ID="0" Value="55" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast112_Alive" Type="FRState">
+        <SubState ID="0" Value="57" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast212_Alive" Type="FRState">
+        <SubState ID="0" Value="59" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast122_Alive" Type="FRState">
+        <SubState ID="0" Value="61" />
+        <SubState ID="1" Value="0" />
+    </State>
+    <State Name="SouthEast222_Alive" Type="FRState">
+        <SubState ID="0" Value="63" />
+        <SubState ID="1" Value="0" />
+    </State>
+    
+    
+    <!-- DEAD -->
+    
+    
+    <!-- 4 dir-->
+    <State Name="East_Dead" Type="FRState">
+        <SubState ID="0" Value="0" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="North_Dead" Type="FRState">
+        <SubState ID="0" Value="16" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="West_Dead" Type="FRState">
+        <SubState ID="0" Value="32" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="South_Dead" Type="FRState">
+        <SubState ID="0" Value="48" />
+        <SubState ID="1" Value="1" />
+    </State>
+
+
+
+    <!-- 4 dir 2-->
+    
+    
+    
+    <State Name="EastNorth_Dead" Type="FRState">
+        <SubState ID="0" Value="8" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest_Dead" Type="FRState">
+        <SubState ID="0" Value="24" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth_Dead" Type="FRState">
+        <SubState ID="0" Value="40" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast_Dead" Type="FRState">
+        <SubState ID="0" Value="56" />
+        <SubState ID="1" Value="1" />
+    </State>
+    
+    
+    
+    <!-- 8 dir-->
+    
+    
+    
+    <State Name="EastNorth1_Dead" Type="FRState">
+        <SubState ID="0" Value="4" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth2_Dead" Type="FRState">
+        <SubState ID="0" Value="12" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest1_Dead" Type="FRState">
+        <SubState ID="0" Value="20" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest2_Dead" Type="FRState">
+        <SubState ID="0" Value="28" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth1_Dead" Type="FRState">
+        <SubState ID="0" Value="36" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth2_Dead" Type="FRState">
+        <SubState ID="0" Value="44" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast1_Dead" Type="FRState">
+        <SubState ID="0" Value="52" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast2_Dead" Type="FRState">
+        <SubState ID="0" Value="60" />
+        <SubState ID="1" Value="1" />
+    </State>
+    
+    
+    
+    <!-- 16 dir-->
+    
+    
+    
+    <State Name="EastNorth11_Dead" Type="FRState">
+        <SubState ID="0" Value="2" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth21_Dead" Type="FRState">
+        <SubState ID="0" Value="6" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth12_Dead" Type="FRState">
+        <SubState ID="0" Value="10" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth22_Dead" Type="FRState">
+        <SubState ID="0" Value="14" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest11_Dead" Type="FRState">
+        <SubState ID="0" Value="18" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest21_Dead" Type="FRState">
+        <SubState ID="0" Value="22" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest12_Dead" Type="FRState">
+        <SubState ID="0" Value="26" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest22_Dead" Type="FRState">
+        <SubState ID="0" Value="30" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth11_Dead" Type="FRState">
+        <SubState ID="0" Value="34" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth21_Dead" Type="FRState">
+        <SubState ID="0" Value="38" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth12_Dead" Type="FRState">
+        <SubState ID="0" Value="42" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth22_Dead" Type="FRState">
+        <SubState ID="0" Value="46" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast11_Dead" Type="FRState">
+        <SubState ID="0" Value="50" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast21_Dead" Type="FRState">
+        <SubState ID="0" Value="54" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast12_Dead" Type="FRState">
+        <SubState ID="0" Value="58" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast22_Dead" Type="FRState">
+        <SubState ID="0" Value="62" />
+        <SubState ID="1" Value="1" />
+    </State>
+    
+    
+    
+    <!-- 32 dir-->
+    
+    
+    
+    <State Name="EastNorth111_Dead" Type="FRState">
+        <SubState ID="0" Value="1" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth211_Dead" Type="FRState">
+        <SubState ID="0" Value="3" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth121_Dead" Type="FRState">
+        <SubState ID="0" Value="5" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth221_Dead" Type="FRState">
+        <SubState ID="0" Value="7" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth112_Dead" Type="FRState">
+        <SubState ID="0" Value="9" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth212_Dead" Type="FRState">
+        <SubState ID="0" Value="11" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth122_Dead" Type="FRState">
+        <SubState ID="0" Value="13" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="EastNorth222_Dead" Type="FRState">
+        <SubState ID="0" Value="15" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest111_Dead" Type="FRState">
+        <SubState ID="0" Value="17" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest211_Dead" Type="FRState">
+        <SubState ID="0" Value="19" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest121_Dead" Type="FRState">
+        <SubState ID="0" Value="21" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest221_Dead" Type="FRState">
+        <SubState ID="0" Value="23" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest112_Dead" Type="FRState">
+        <SubState ID="0" Value="25" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest212_Dead" Type="FRState">
+        <SubState ID="0" Value="27" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest122_Dead" Type="FRState">
+        <SubState ID="0" Value="29" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="NorthWest222_Dead" Type="FRState">
+        <SubState ID="0" Value="31" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth111_Dead" Type="FRState">
+        <SubState ID="0" Value="33" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth211_Dead" Type="FRState">
+        <SubState ID="0" Value="35" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth121_Dead" Type="FRState">
+        <SubState ID="0" Value="37" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth221_Dead" Type="FRState">
+        <SubState ID="0" Value="39" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth112_Dead" Type="FRState">
+        <SubState ID="0" Value="41" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth212_Dead" Type="FRState">
+        <SubState ID="0" Value="43" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth122_Dead" Type="FRState">
+        <SubState ID="0" Value="45" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="WestSouth222_Dead" Type="FRState">
+        <SubState ID="0" Value="47" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast111_Dead" Type="FRState">
+        <SubState ID="0" Value="49" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast211_Dead" Type="FRState">
+        <SubState ID="0" Value="51" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast121_Dead" Type="FRState">
+        <SubState ID="0" Value="53" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast221_Dead" Type="FRState">
+        <SubState ID="0" Value="55" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast112_Dead" Type="FRState">
+        <SubState ID="0" Value="57" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast212_Dead" Type="FRState">
+        <SubState ID="0" Value="59" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast122_Dead" Type="FRState">
+        <SubState ID="0" Value="61" />
+        <SubState ID="1" Value="1" />
+    </State>
+    <State Name="SouthEast222_Dead" Type="FRState">
+        <SubState ID="0" Value="63" />
+        <SubState ID="1" Value="1" />
+    </State>
+</FieldRunnerStates>

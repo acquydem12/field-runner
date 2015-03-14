@@ -1,0 +1,4 @@
+<GameRules>
+    <Info MapName="GrassLand" Heart="20" HeartImage="Heart" HeartFont="font_gold" Money="2000" MoneyFont="font_gold" Score="0" ScoreFont="font_gold"/>
+    <Info MapName="Cave" Heart="20" HeartImage="Heart" HeartFont="font_gold" Money="40" MoneyFont="font_gold" Score="0" ScoreFont="font_gold"/>
+</GameRules>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FieldRunnersStateSprite>
+    
+    
+    <!-- SOLDIER STATE SPRITES -->
+    
+    
+    <StateSprite Name="Soldier">
+        <State State="East_Alive" Sprite="soldier_move_left"/>
+        <State State="West_Alive" Sprite="soldier_move_right"/>
+        <State State="North_Alive" Sprite="soldier_move_up"/>
+        <State State="South_Alive" Sprite="soldier_move_down"/>
+    </StateSprite>
+    
+    
+    <!-- HEAVY SOLDIER STATE SPRITES -->
+    
+    
+    <StateSprite Name="Heavy_Soldier">
+        <State State="East_Alive" Sprite="heavy_soldier_move_left"/>
+        <State State="West_Alive" Sprite="heavy_soldier_move_right"/>
+        <State State="North_Alive" Sprite="heavy_soldier_move_down"/>
+        <State State="South_Alive" Sprite="heavy_soldier_move_up"/>
+    </StateSprite>
+    
+    
+    <!-- HEAVY ICEBIKE STATE SPRITES -->
+    
+    
+    <StateSprite Name="Heavy_IceBike">
+        <State State="East_Alive" Sprite="heavy_icebike_move_left"/>
+        <State State="West_Alive" Sprite="heavy_icebike_move_right"/>
+        <State State="North_Alive" Sprite="heavy_icebike_move_up"/>
+        <State State="South_Alive" Sprite="heavy_icebike_move_down"/>
+    </StateSprite>
+    
+    
+    <!-- MORTAL STATE SPRITES -->
+    
+    
+    <StateSprite Name="Mortal">
+        <State State="Attack_Level1" Sprite="mortal_attack_level1"/>
+        <State State="Attack_Level2" Sprite="mortal_attack_level2"/>
+        <State State="Attack_Level3" Sprite="mortal_attack_level3"/>
+        <State State="Idle_Level1" Sprite="mortal_idle_level1"/>
+        <State State="Idle_Level2" Sprite="mortal_idle_level2"/>
+        <State State="Idle_Level3" Sprite="mortal_idle_level3"/>
+    </StateSprite>
+    
+    
+    <!-- ICE STATE SPRITES -->
+    
+    
+    <StateSprite Name="Ice">
+        <State State="Attack_Level1" Sprite="ice_attack_level1"/>
+        <State State="Attack_Level2" Sprite="ice_attack_level2"/>
+        <State State="Attack_Level3" Sprite="ice_attack_level3"/>
+        <State State="Idle_Level1" Sprite="ice_idle_level1"/>
+        <State State="Idle_Level2" Sprite="ice_idle_level2"/>
+        <State State="Idle_Level3" Sprite="ice_idle_level3"/>
+    </StateSprite>
+    
+    
+    <!-- LAVA STATE SPRITES -->
+    
+    
+    <StateSprite Name="Lava">
+        <State State="Attack_Level1" Sprite="lava_attack_level1"/>
+        <State State="Attack_Level2" Sprite="lava_attack_level2"/>
+        <State State="Attack_Level3" Sprite="lava_attack_level3"/>
+        <State State="Idle_Level1" Sprite="lava_idle_level1"/>
+        <State State="Idle_Level2" Sprite="lava_idle_level2"/>
+        <State State="Idle_Level3" Sprite="lava_idle_level3"/>
+    </StateSprite>
+</FieldRunnersStateSprite>

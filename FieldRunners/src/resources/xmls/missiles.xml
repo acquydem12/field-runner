@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Missiles>
+    <Missile Name="GunBulletLv1" ShineName="Null" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Fixed" CollideKill="1" Suffuse="0" TTL="10" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+            
+        <Explosion ShineName="ultimative" TTL="100">
+            <Anchor X="0" Y="0"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>1000</Damage>
+        </Effect>
+    </Missile>
+    <Missile Name="GunBulletLv2" ShineName="Null" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Fixed" CollideKill="1" Suffuse="0" TTL="10" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+            
+        <Explosion ShineName="ultimative" TTL="100">
+            <Anchor X="0" Y="0"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>20</Damage>
+        </Effect>
+    </Missile>
+    <Missile Name="GunBulletLv3" ShineName="Null" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Fixed" CollideKill="1" Suffuse="0" TTL="10" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+            
+        <Explosion ShineName="ultimative" TTL="100">
+            <Anchor X="0" Y="0"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>30</Damage>
+        </Effect>
+    </Missile>
+    
+    
+    
+    
+    <Missile Name="SlowMSLevel1" ShineName="PeaLv1" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>3.0</Speed>
+        
+        <Explosion ShineName="a_2" TTL="100">
+            <Anchor X="80" Y="40"/>
+        </Explosion>
+            
+        <Effect Type="Slow">
+            <Slow>0.4</Slow>
+            <Length>150</Length>
+        </Effect>
+    </Missile>
+    <Missile Name="SlowMSLevel2" ShineName="PeaLv2" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>5.0</Speed>
+            
+        <Explosion ShineName="a_2" TTL="100">
+            <Anchor X="80" Y="40"/>
+        </Explosion>
+            
+        <Effect Type="Slow">
+            <Slow>0.6</Slow>
+            <Length>250</Length>
+        </Effect>
+    </Missile>
+    <Missile Name="SlowMSLevel3" ShineName="PeaLv3" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>7.0</Speed>
+            
+        <Explosion ShineName="a_2" TTL="100">
+            <Anchor X="80" Y="40"/>
+        </Explosion>
+            
+        <Effect Type="Slow">
+            <Slow>0.8</Slow>
+            <Length>350</Length>
+        </Effect>
+    </Missile>
+    
+    
+    
+    <Missile Name="MissileMSLevel1" ShineName="PeaLv1" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>5.0</Speed>
+            
+        <Explosion ShineName="a_4" TTL="100">
+            <Anchor X="90" Y="80"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>20</Damage>
+        </Effect>
+    </Missile>
+    <Missile Name="MissileMSLevel2" ShineName="PeaLv2" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>6.5</Speed>
+            
+        <Explosion ShineName="a_4" TTL="100">
+            <Anchor X="90" Y="80"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>40</Damage>
+        </Effect>
+    </Missile>
+    <Missile Name="MissileMSLevel3" ShineName="PeaLv3" nOfDirect="1"
+             LoopAnim="0" DelayAnim="100" Move="Linear" CollideKill="1" Suffuse="0" TTL="300" CollideSound="explosion_01">
+        <Anchor X="0" Y="0" />
+        
+        <Speed>8.0</Speed>
+            
+        <Explosion ShineName="a_4" TTL="100">
+            <Anchor X="90" Y="80"/>
+        </Explosion>
+            
+        <Effect Type="Damage">
+            <Damage>60</Damage>
+        </Effect>
+    </Missile>
+</Missiles>

@@ -1,0 +1,10 @@
+<Shop>
+	<ShopItem ButtonName="AK" TowerName="Gun" MapName="GrassLand" ShineName="mortal_idle_level1"/>
+	<ShopItem ButtonName="AK2" TowerName="Slow" MapName="GrassLand" ShineName="ice_idle_level1"/>
+	<ShopItem ButtonName="AK3" TowerName="Missile" MapName="GrassLand" ShineName="lava_idle_level1"/>
+        
+        
+	<ShopItem ButtonName="AK" TowerName="Gun" MapName="Cave" ShineName="mortal_idle_level1"/>
+	<ShopItem ButtonName="AK2" TowerName="Slow" MapName="Cave" ShineName="ice_idle_level1"/>
+	<ShopItem ButtonName="AK3" TowerName="Missile" MapName="Cave" ShineName="lava_idle_level1"/>
+</Shop>

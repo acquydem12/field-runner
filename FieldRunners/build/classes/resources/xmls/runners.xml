@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Runners> 
+    <Runner Name="Soldier_GrassLand" ShineName="Soldier" MoveSpeed="0.5" nOfDirect="4" HP="50" Price="2" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_Soldier_GrassLand" ShineName="Heavy_Soldier" MoveSpeed="1.0" nOfDirect="4" HP="100" Price="5" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_IceBike_GrassLand" ShineName="Heavy_IceBike" MoveSpeed="1.7" nOfDirect="4" HP="60" Price="7" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    
+    
+    <Runner Name="Soldier_CaveLv1" ShineName="Soldier" MoveSpeed="0.8" nOfDirect="4" HP="50" Price="2" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Soldier_CaveLv2" ShineName="Soldier" MoveSpeed="1.0" nOfDirect="4" HP="80" Price="2" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Soldier_CaveLv3" ShineName="Soldier" MoveSpeed="1.4" nOfDirect="4" HP="110" Price="2" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_Soldier_CaveLv1" ShineName="Heavy_Soldier" MoveSpeed="0.6" nOfDirect="4" HP="100" Price="5" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_Soldier_CaveLv2" ShineName="Heavy_Soldier" MoveSpeed="0.7" nOfDirect="4" HP="150" Price="5" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_Soldier_CaveLv3" ShineName="Heavy_Soldier" MoveSpeed="0.8" nOfDirect="4" HP="200" Price="5" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_IceBike_CaveLv1" ShineName="Heavy_IceBike" MoveSpeed="1.7" nOfDirect="4" HP="60" Price="7" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_IceBike_CaveLv2" ShineName="Heavy_IceBike" MoveSpeed="1.9" nOfDirect="4" HP="70" Price="7" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+    <Runner Name="Heavy_IceBike_CaveLv3" ShineName="Heavy_IceBike" MoveSpeed="2.1" nOfDirect="4" HP="80" Price="7" DeathSound="unit_death"> 
+        <Size X = "90" Y = "90" /> 
+    </Runner>
+</Runners>

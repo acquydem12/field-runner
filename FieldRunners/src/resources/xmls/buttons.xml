@@ -1,0 +1,66 @@
+<Button>
+    <ButtonInfo Name="AK" Owner="" ImageName="gatling" ImageNameOver="glow" ImageNameDisable="gatling_disabled" FontName="font_dark" IsUntransform="1" 
+                    Type="Rectangle" Width="133" Height="117" Click="Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="AK2" Owner="" ImageName="goo" ImageNameOver="glow" ImageNameDisable="goo_disabled" FontName="font_dark" IsUntransform="1" 
+                    Type="Rectangle" Width="133" Height="117" Click="Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="AK3" Owner="" ImageName="lava" ImageNameOver="glow" ImageNameDisable="lava_disabled" FontName="font_dark" IsUntransform="1" 
+                    Type="Rectangle" Width="133" Height="117" Click="Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="Upgrade" Owner="" ImageName="upgrade" ImageNameOver="glow" ImageNameDisable="upgrade_disabled" FontName="font_dark" IsUntransform="0" 
+                    Type="Rectangle" Width="133" Height="117" Click="Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="Sell" Owner="" ImageName="sell" ImageNameOver="glow" ImageNameDisable="" FontName="font_dark" IsUntransform="0" 
+                    Type="Rectangle" Width="133" Height="117" Click="Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="PLAY" Owner="" ImageName="" ImageNameOver="bt_PLAY" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="play_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="RESUME" Owner="" ImageName="" ImageNameOver="bt_RESUME" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="resume_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SCORES" Owner="" ImageName="" ImageNameOver="bt_SCORES" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="scores_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="OPTION" Owner="" ImageName="" ImageNameOver="bt_OPTION" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="option_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="HELP" Owner="" ImageName="" ImageNameOver="bt_HELP" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="help_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="QUIT" Owner="" ImageName="" ImageNameOver="bt_QUIT" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="256" Height="128" Click="quit_Clicked" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="increase" Owner="" ImageName="" ImageNameOver="increase" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="49" Height="49" Click="increase_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="decrease" Owner="" ImageName="" ImageNameOver="decrease" ImageNameDisable="" FontName="" IsUntransform="1" 
+                    Type="Rectangle" Width="49" Height="49" Click="decrease_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="ok" Owner="" ImageName="" ImageNameOver="ok" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="210" Height="57" Click="ok_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+        
+    <ButtonInfo Name="SYS_PLAY" Owner="" ImageName="play" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="64" Height="64" Click="play_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_PAUSE" Owner="" ImageName="pause" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="64" Height="64" Click="play_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_SPEED" Owner="" ImageName="speddNormal" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="64" Height="64" Click="speed_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_SPEED_FAST" Owner="" ImageName="speddFast" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="64" Height="64" Click="speed_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_SOUND_ON" Owner="" ImageName="soundOn" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="60" Height="60" Click="sound_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_SOUND_OFF" Owner="" ImageName="soundOff" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="60" Height="60" Click="sound_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+    <ButtonInfo Name="SYS_MENU" Owner="" ImageName="menu" ImageNameOver="" ImageNameDisable="" FontName="" IsUntransform="1"
+                    Type="Rectangle" Width="64" Height="64" Click="menu_Click" Over="Over" Release="Release">
+    </ButtonInfo>
+</Button>

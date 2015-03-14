@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TowerStates>
+  <State Name="Idle_Level1" Type="TowerState">
+      <SubState ID="0" Value="1" />
+      <SubState ID="1" Value="1" />
+  </State>
+  <State Name="Idle_Level2" Type="TowerState">
+      <SubState ID="0" Value="1" />
+      <SubState ID="1" Value="2" />
+  </State>
+  <State Name="Idle_Level3" Type="TowerState">
+      <SubState ID="0" Value="1" />
+      <SubState ID="1" Value="3" />
+  </State>
+  <State Name="Attack_Level1" Type="TowerState">
+      <SubState ID="0" Value="0" />
+      <SubState ID="1" Value="1" />
+  </State>`
+  <State Name="Attack_Level2" Type="TowerState">
+      <SubState ID="0" Value="0" />
+      <SubState ID="1" Value="2" />
+  </State>
+  <State Name="Attack_Level3" Type="TowerState">
+      <SubState ID="0" Value="0" />
+      <SubState ID="1" Value="3" />
+  </State>
+</TowerStates>

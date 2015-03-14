@@ -1,0 +1,15 @@
+<Sound>
+	<SoundInfo Name="escape" Link="src\resources\sounds\escape.wav"/>
+	<SoundInfo Name="explosion_01" Link="src\resources\sounds\explosion_01.wav"/>
+	<SoundInfo Name="failure_tune" Link="src\resources\sounds\failure_tune.wav"/>
+	<SoundInfo Name="goo_impact" Link="src\resources\sounds\goo_impact.wav"/>
+	<SoundInfo Name="laser_zap_01" Link="src\resources\sounds\laser_zap_01.wav"/>
+	<SoundInfo Name="rainforest" Link="src\resources\sounds\rainforest.wav"/>
+	<SoundInfo Name="tower_upgrade" Link="src\resources\sounds\tower_upgrade.wav"/>
+	<SoundInfo Name="UI_button" Link="src\resources\sounds\UI_button.wav"/>
+	<SoundInfo Name="victory" Link="src\resources\sounds\victory.wav"/>
+	<SoundInfo Name="volcano" Link="src\resources\sounds\volcano.wav"/>
+	<SoundInfo Name="unit_death" Link="src\resources\sounds\unit_death.wav"/>
+	<SoundInfo Name="UI_button2" Link="src\resources\sounds\UI_button2.wav"/>
+	<SoundInfo Name="invalid" Link="src\resources\sounds\invalid.wav"/>
+</Sound>

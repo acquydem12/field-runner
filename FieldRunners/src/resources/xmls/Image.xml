@@ -1,0 +1,139 @@
+<Image>
+    <ImageContent Link="..\resources\images\font_dark.png" ImageName="font_dark"/>
+    <ImageContent Link="..\resources\images\font_gold.png" ImageName="font_gold"/>
+    <ImageContent Link="..\resources\images\font_gold_large.png" ImageName="font_gold_large"/>
+    <ImageContent Link="..\resources\images\font_light.png" ImageName="font_light"/>
+    <ImageContent Link="..\resources\images\arrow_up_highlight2.png" ImageName="increase"/>
+    <ImageContent Link="..\resources\images\arrow_down_highlight2.png" ImageName="decrease"/>
+    <ImageContent Link="..\resources\images\ok.png" ImageName="ok"/>
+    <ImageContent Link="..\resources\images\title_options_computer.png" ImageName="option"/>
+    <ImageContent Link="..\resources\images\Option_bar.png" ImageName="loading_bar"/>
+    <ImageContent Link="..\resources\images\grasslands.png" ImageName="002"/>
+    <ImageContent Link="..\resources\images\cave.png" ImageName="cave_img"/>
+    <ImageContent Link="..\resources\images\mouse_cursor.png" ImageName="003"/>
+    <ImageContent Link="..\resources\images\tower.png" ImageName="005"/>
+    <ImageContent Link="..\resources\images\darkCell.png" ImageName="006"/>
+    <ImageContent Link="..\resources\images\lightCell.png" ImageName="007"/>
+    <ImageContent Link="..\resources\images\milua.png" ImageName="mil"/>
+    <ImageContent Link="..\resources\images\ultimative.png" ImageName="ulti"/>
+    
+    <ImageContent Link="..\resources\images\icon_mortal.png" ImageName="gatling"/>
+    <ImageContent Link="..\resources\images\icon_ice.png" ImageName="goo"/>
+    <ImageContent Link="..\resources\images\icon_lava.png" ImageName="missile"/>
+    <ImageContent Link="..\resources\images\icon_tower_glow.png" ImageName="glow"/>
+    
+    <ImageContent Link="..\resources\images\icon_mortal_disabled.png" ImageName="gatling_disabled"/>
+    <ImageContent Link="..\resources\images\icon_ice_disabled.png" ImageName="goo_disabled"/>
+    <ImageContent Link="..\resources\images\icon_lava_disabled.png" ImageName="missile_disabled"/>
+    <ImageContent Link="..\resources\images\icon_upgrade.png" ImageName="upgrade"/>
+    <ImageContent Link="..\resources\images\icon_upgrade_disabled.png" ImageName="upgrade_disabled"/>
+    <ImageContent Link="..\resources\images\icon_sell.png" ImageName="sell"/>
+    <ImageContent Link="..\resources\images\title_screen_computer_wide.png" ImageName="bg_mainmenu"/>
+    <ImageContent Link="..\resources\images\title_screen_button1_select.png" ImageName="bt_PLAY"/>
+    <ImageContent Link="..\resources\images\title_screen_button2_select.png" ImageName="bt_RESUME"/>
+    <ImageContent Link="..\resources\images\title_screen_button3_select.png" ImageName="bt_SCORES"/>
+    <ImageContent Link="..\resources\images\title_screen_button4_select.png" ImageName="bt_OPTION"/>
+    <ImageContent Link="..\resources\images\title_screen_button5_select.png" ImageName="bt_HELP"/>
+    <ImageContent Link="..\resources\images\title_screen_quit_select.png" ImageName="bt_QUIT"/>
+    <ImageContent Link="..\resources\images\a_1.png" ImageName="a_1"/>
+    <ImageContent Link="..\resources\images\a_2.png" ImageName="a_2"/>
+    <ImageContent Link="..\resources\images\a_3.png" ImageName="a_3"/>
+    <ImageContent Link="..\resources\images\a_4.png" ImageName="a_4"/>
+    <ImageContent Link="..\resources\images\hud_health.png" ImageName="hud_health"/>
+        
+    <ImageContent Link="..\resources\images\B_Pea_lv1.png" ImageName="B_Pea1"/>
+    <ImageContent Link="..\resources\images\B_Pea_lv2.png" ImageName="B_Pea2"/>
+    <ImageContent Link="..\resources\images\B_Pea_lv3.png" ImageName="B_Pea3"/>
+    
+    
+    
+    
+    <ImageContent Link="..\resources\images\null.png" ImageName="null"/>
+    
+    
+    
+    
+    
+    <ImageContent Link="..\resources\images\icon_upgrade.png" ImageName="upgrade"/>
+    <ImageContent Link="..\resources\images\icon_upgrade_disabled.png" ImageName="upgrade_disabled"/>
+    <ImageContent Link="..\resources\images\icon_sell.png" ImageName="sell"/>
+    <ImageContent Link="..\resources\images\hud_audio_off.png" ImageName="soundOff"/>
+    <ImageContent Link="..\resources\images\hud_audio_on.png" ImageName="soundOn"/>
+    <ImageContent Link="..\resources\images\hud_fast_forward.png" ImageName="speddFast"/>
+    <ImageContent Link="..\resources\images\hud_fast_forward_disabled.png" ImageName="speddNormal"/>
+    <ImageContent Link="..\resources\images\hud_pause.png" ImageName="pause"/>
+    <ImageContent Link="..\resources\images\hud_play.png" ImageName="play"/>
+    <ImageContent Link="..\resources\images\hud_menu.png" ImageName="menu"/>
+    
+    
+    
+    
+    <ImageContent Link="..\resources\images\win_lost_bg.png" ImageName="win_lost_bg"/>
+    <ImageContent Link="..\resources\images\text_lost.png" ImageName="text_lost"/>
+    <ImageContent Link="..\resources\images\text_victory.png" ImageName="text_victory"/>
+    
+    
+        
+    
+    <!-- MORTAL SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\mortal_attack_level1.png" ImageName="mortal_attack_level1_image"/>
+    <ImageContent Link="..\resources\images\mortal_attack_level2.png" ImageName="mortal_attack_level2_image"/>
+    <ImageContent Link="..\resources\images\mortal_attack_level3.png" ImageName="mortal_attack_level3_image"/>
+    <ImageContent Link="..\resources\images\mortal_idle_level1.png" ImageName="mortal_idle_level1_image"/>
+    <ImageContent Link="..\resources\images\mortal_idle_level2.png" ImageName="mortal_idle_level2_image"/>
+    <ImageContent Link="..\resources\images\mortal_idle_level3.png" ImageName="mortal_idle_level3_image"/>
+    
+    
+    
+    
+    <!-- ICE SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\ice_attack_level1.png" ImageName="ice_attack_level1_image"/>
+    <ImageContent Link="..\resources\images\ice_attack_level2.png" ImageName="ice_attack_level2_image"/>
+    <ImageContent Link="..\resources\images\ice_attack_level3.png" ImageName="ice_attack_level3_image"/>
+    <ImageContent Link="..\resources\images\ice_idle_level1.png" ImageName="ice_idle_level1_image"/>
+    <ImageContent Link="..\resources\images\ice_idle_level2.png" ImageName="ice_idle_level2_image"/>
+    <ImageContent Link="..\resources\images\ice_idle_level3.png" ImageName="ice_idle_level3_image"/>
+    
+    
+    
+    
+    <!-- LAVA SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\lava_attack_level1.png" ImageName="lava_attack_level1_image"/>
+    <ImageContent Link="..\resources\images\lava_attack_level2.png" ImageName="lava_attack_level2_image"/>
+    <ImageContent Link="..\resources\images\lava_attack_level3.png" ImageName="lava_attack_level3_image"/>
+    <ImageContent Link="..\resources\images\lava_idle_level1.png" ImageName="lava_idle_level1_image"/>
+    <ImageContent Link="..\resources\images\lava_idle_level2.png" ImageName="lava_idle_level2_image"/>
+    <ImageContent Link="..\resources\images\lava_idle_level3.png" ImageName="lava_idle_level3_image"/>
+        
+    
+    <!-- SOLDIER SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\soldier_move_left.png" ImageName="soldier_move_left_image"/>
+    <ImageContent Link="..\resources\images\soldier_move_right.png" ImageName="soldier_move_right_image"/>
+    <ImageContent Link="..\resources\images\soldier_move_up.png" ImageName="soldier_move_up_image"/>
+    <ImageContent Link="..\resources\images\soldier_move_down.png" ImageName="soldier_move_down_image"/>
+    
+    <!-- HEAVY SOLDIER SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\heavy_soldier_move_east.png" ImageName="heavy_soldier_move_right_image"/>
+    <ImageContent Link="..\resources\images\heavy_soldier_move_west.png" ImageName="heavy_soldier_move_left_image"/>
+    <ImageContent Link="..\resources\images\heavy_soldier_move_north.png" ImageName="heavy_soldier_move_up_image"/>
+    <ImageContent Link="..\resources\images\heavy_soldier_move_south.png" ImageName="heavy_soldier_move_down_image"/>
+        
+    
+    <!-- HEAVY ICE BIKE SPRITES -->
+    
+    
+    <ImageContent Link="..\resources\images\heavy_icebike_move_left.png" ImageName="heavy_icebike_move_left_image"/>
+    <ImageContent Link="..\resources\images\heavy_icebike_move_right.png" ImageName="heavy_icebike_move_right_image"/>
+    <ImageContent Link="..\resources\images\heavy_icebike_move_up.png" ImageName="heavy_icebike_move_up_image"/>
+    <ImageContent Link="..\resources\images\heavy_icebike_move_down.png" ImageName="heavy_icebike_move_down_image"/>
+</Image>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FieldRunnerMap>
+    <Map Name = "GrassLand">
+        <Background>GrassLand</Background>
+        <PlayMode>0</PlayMode>
+        <BeginPosition X = "0" Y = "317" />
+        <Start X = "0" Y = "5" />
+        <Goal X = "23" Y = "5" />
+        <GridSize X = "24" Y = "11" />
+        <TotalSize X = "2275" Y = "1707" />
+        <CellSize X = "100" Y = "100" />
+        <LockedCell X = "0" Y = "0" />
+        <LockedCell X = "0" Y = "1" />
+        <LockedCell X = "0" Y = "2" />
+        <LockedCell X = "0" Y = "3" />
+        <LockedCell X = "0" Y = "4" />
+        <LockedCell X = "0" Y = "6" />
+        <LockedCell X = "0" Y = "7" />
+        <LockedCell X = "0" Y = "8" />
+        <LockedCell X = "0" Y = "9" />
+        <LockedCell X = "0" Y = "10" />
+        <LockedCell X = "1" Y = "0" />
+        <LockedCell X = "1" Y = "1" />
+        <LockedCell X = "1" Y = "2" />
+        <LockedCell X = "1" Y = "3" />
+        <LockedCell X = "1" Y = "4" />
+        <LockedCell X = "1" Y = "6" />
+        <LockedCell X = "1" Y = "7" />
+        <LockedCell X = "1" Y = "8" />
+        <LockedCell X = "1" Y = "9" />
+        <LockedCell X = "1" Y = "10" />
+        <LockedCell X = "21" Y = "0" />
+        <LockedCell X = "21" Y = "1" />
+        <LockedCell X = "21" Y = "2" />
+        <LockedCell X = "21" Y = "3" />
+        <LockedCell X = "21" Y = "4" />
+        <LockedCell X = "21" Y = "6" />
+        <LockedCell X = "21" Y = "7" />
+        <LockedCell X = "21" Y = "8" />
+        <LockedCell X = "21" Y = "9" />
+        <LockedCell X = "21" Y = "10" />
+        <LockedCell X = "22" Y = "0" />
+        <LockedCell X = "22" Y = "1" />
+        <LockedCell X = "22" Y = "2" />
+        <LockedCell X = "22" Y = "3" />
+        <LockedCell X = "22" Y = "4" />
+        <LockedCell X = "22" Y = "6" />
+        <LockedCell X = "22" Y = "7" />
+        <LockedCell X = "22" Y = "8" />
+        <LockedCell X = "22" Y = "9" />
+        <LockedCell X = "22" Y = "10" />
+        <LockedCell X = "23" Y = "0" />
+        <LockedCell X = "23" Y = "1" />
+        <LockedCell X = "23" Y = "2" />
+        <LockedCell X = "23" Y = "3" />
+        <LockedCell X = "23" Y = "4" />
+        <LockedCell X = "23" Y = "6" />
+        <LockedCell X = "23" Y = "7" />
+        <LockedCell X = "23" Y = "8" />
+        <LockedCell X = "23" Y = "9" />
+        <LockedCell X = "23" Y = "10" />
+            
+        <Round Name="Round 1">
+            <Wave Runner="Soldier_GrassLand" nRunner="0" CreateDelay="0" TTL="300"/>
+            <Wave Runner="Soldier_GrassLand" nRunner="100" CreateDelay="50" TTL="-1"/>
+        </Round>
+        <Round Name="Round 2">
+            <Wave Runner="Soldier_GrassLand" nRunner="0" CreateDelay="0" TTL="100"/>
+            <Wave Runner="Heavy_Soldier_GrassLand" nRunner="5" CreateDelay="200" TTL="-1"/>
+        </Round>
+            
+        <Round Name="Round 3">
+            <Wave Runner="Soldier_GrassLand" nRunner="0" CreateDelay="0" TTL="100"/>
+            <Wave Runner="Heavy_IceBike_GrassLand" nRunner="3" CreateDelay="150" TTL="-1"/>
+        </Round>
+            
+        <Round Name="Round 4">
+            <Wave Runner="Soldier_GrassLand" nRunner="0" CreateDelay="0" TTL="100"/>
+            <Wave Runner="Soldier_GrassLand" nRunner="10" CreateDelay="60" TTL="-1"/>
+        </Round>
+    </Map>
+    
+    
+    
+    
+    <Map Name = "Cave">
+        <Background>Cave</Background>
+        <PlayMode>0</PlayMode>
+        <BeginPosition X = "75" Y = "300" />
+        <Start X = "0" Y = "5" />
+        <Goal X = "20" Y = "5" />
+        <GridSize X = "21" Y = "11" />
+        <TotalSize X = "2275" Y = "1707" />
+        <CellSize X = "100" Y = "100" />
+        <LockedCell X = "0" Y = "0" />
+        <LockedCell X = "0" Y = "1" />
+        <LockedCell X = "0" Y = "2" />
+        <LockedCell X = "0" Y = "3" />
+        <LockedCell X = "0" Y = "4" />
+        <LockedCell X = "0" Y = "6" />
+        <LockedCell X = "0" Y = "7" />
+        <LockedCell X = "0" Y = "8" />
+        <LockedCell X = "0" Y = "9" />
+        <LockedCell X = "0" Y = "10" />
+        <LockedCell X = "20" Y = "0" />
+        <LockedCell X = "20" Y = "1" />
+        <LockedCell X = "20" Y = "2" />
+        <LockedCell X = "20" Y = "3" />
+        <LockedCell X = "20" Y = "4" />
+        <LockedCell X = "20" Y = "6" />
+        <LockedCell X = "20" Y = "7" />
+        <LockedCell X = "20" Y = "8" />
+        <LockedCell X = "20" Y = "9" />
+        <LockedCell X = "20" Y = "10" />
+        
+        <Round Name="Round 1">
+            <Wave Runner="Soldier_CaveLv1" nRunner="0" CreateDelay="0" TTL="300"/>
+            <Wave Runner="Soldier_CaveLv1" nRunner="3" CreateDelay="150" TTL="-1"/>
+        </Round>
+        <Round Name="Round 2">
+            <Wave Runner="Soldier_CaveLv1" nRunner="0" CreateDelay="0" TTL="300"/>
+            <Wave Runner="Soldier_CaveLv1" nRunner="5" CreateDelay="150" TTL="100"/>
+            <Wave Runner="Heavy_Soldier_CaveLv1" nRunner="1" CreateDelay="150" TTL="-1"/>
+        </Round>
+        <Round Name="Round 3">
+            <Wave Runner="Soldier_CaveLv1" nRunner="0" CreateDelay="0" TTL="300"/>
+            <Wave Runner="Heavy_Soldier_CaveLv1" nRunner="3" CreateDelay="150" TTL="100"/>
+            <Wave Runner="Soldier_CaveLv1" nRunner="10" CreateDelay="150" TTL="-1"/>
+        </Round>
+        <Round Name="Round 4">
+            <Wave Runner="Soldier_CaveLv1" nRunner="0" CreateDelay="0" TTL="300"/>
+            <Wave Runner="Heavy_IceBike_CaveLv1" nRunner="5" CreateDelay="100" TTL="100"/>
+            <Wave Runner="Heavy_Soldier_CaveLv2" nRunner="10" CreateDelay="150" TTL="-1"/>
+        </Round>
+    </Map>
+</FieldRunnerMap>

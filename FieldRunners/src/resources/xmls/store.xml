@@ -1,0 +1,5 @@
+<StoreInfo>
+	<ShopItem TowerName="Gun" Value="5"/>
+	<ShopItem TowerName="Slow" Value="10"/>
+	<ShopItem TowerName="Missile" Value="20"/>
+</StoreInfo>

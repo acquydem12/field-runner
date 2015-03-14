@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteData>
+    <SpriteInfo Name="GrassLand" ImageName="002" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="1365" Height="1024" />
+    </SpriteInfo>
+    <SpriteInfo Name="Cave" ImageName="cave_img" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="1365" Height="1024" />
+    </SpriteInfo>
+    <SpriteInfo Name="Heart" ImageName="hud_health" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="90" Height="90" />
+    </SpriteInfo>
+    <SpriteInfo Name="Tower" ImageName="005" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="61" Height="85" />
+    </SpriteInfo>
+    <SpriteInfo Name="Cursor" ImageName="003" PointX="33" PointY="42">
+        <Frame X="0" Y="0" Width="33" Height="42" />
+    </SpriteInfo>
+    <SpriteInfo Name="loading_bar" ImageName="loading_bar" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="436" Height="28" />
+    </SpriteInfo>
+    <SpriteInfo Name="option" ImageName="option" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="1024" Height="768" />
+    </SpriteInfo>
+    <SpriteInfo Name="decrease" ImageName="decrease" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="49" Height="49" />
+    </SpriteInfo>
+    <SpriteInfo Name="increase" ImageName="increase" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="49" Height="49" />
+    </SpriteInfo>
+    <SpriteInfo Name="ok" ImageName="ok" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="210" Height="57" />
+    </SpriteInfo>
+    <SpriteInfo Name="DarkCell" ImageName="006" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="100" Height="100" />
+    </SpriteInfo>
+    <SpriteInfo Name="LightCell" ImageName="007" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="100" Height="100" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="mil" Name="milua" PointX="0" PointY="0">
+        <Frame X="123" Y="0" Width="123" Height="123" />
+        <Frame X="246" Y="0" Width="123" Height="123" />
+        <Frame X="369" Y="0" Width="123" Height="123" />
+        <Frame X="492" Y="0" Width="123" Height="123" />
+        <Frame X="615" Y="0" Width="123" Height="123" />
+        <Frame X="738" Y="0" Width="123" Height="123" />
+        <Frame X="860" Y="0" Width="122" Height="121" />
+        <Frame X="983" Y="0" Width="123" Height="123" />
+        <Frame X="123" Y="123" Width="123" Height="123" />
+        <Frame X="246" Y="123" Width="123" Height="117" />
+        <Frame X="369" Y="123" Width="123" Height="123" />
+        <Frame X="492" Y="123" Width="123" Height="123" />
+        <Frame X="615" Y="123" Width="123" Height="123" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="ulti" Name="ultimative" PointX="0" PointY="0">
+        <Frame X="84" Y="0" Width="84" Height="87" />
+        <Frame X="194" Y="0" Width="110" Height="107" />
+        <Frame X="314" Y="0" Width="120" Height="119" />
+        <Frame X="440" Y="0" Width="126" Height="125" />
+        <Frame X="564" Y="0" Width="124" Height="127" />
+        <Frame X="691" Y="0" Width="127" Height="131" />
+    </SpriteInfo>
+    <SpriteInfo Name="gatling" ImageName="gatling" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="gatling_disabled" ImageName="gatling_disabled" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="glow" ImageName="glow" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="goo" ImageName="goo" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="goo_disabled" ImageName="goo_disabled" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava" ImageName="missile" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_disabled" ImageName="missile_disabled" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="upgrade" ImageName="upgrade" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="upgrade_disabled" ImageName="upgrade_disabled" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="sell" ImageName="sell" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="133" Height="117" />
+    </SpriteInfo>
+    <SpriteInfo Name="bg_mainmenu" ImageName="bg_mainmenu" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="1024" Height="768" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_PLAY" ImageName="bt_PLAY" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="190" Height="91" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_RESUME" ImageName="bt_RESUME" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="178" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_SCORES" ImageName="bt_SCORES" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="174" Height="89" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_OPTION" ImageName="bt_OPTION" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="169" Height="88" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_HELP" ImageName="bt_HELP" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="178" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="bt_QUIT" ImageName="bt_QUIT" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="125" Height="75" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="a_1" Name="a_1" PointX="0" PointY="0">
+        <Frame X="111" Y="0" Width="111" Height="107" />
+        <Frame X="222" Y="0" Width="111" Height="107" />
+        <Frame X="333" Y="0" Width="111" Height="107" />
+        <Frame X="444" Y="0" Width="111" Height="107" />
+        <Frame X="555" Y="0" Width="111" Height="107" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="a_2" Name="a_2" PointX="0" PointY="0">
+        <Frame X="80" Y="0" Width="80" Height="80" />
+        <Frame X="160" Y="0" Width="80" Height="80" />
+        <Frame X="240" Y="0" Width="80" Height="80" />
+        <Frame X="320" Y="0" Width="80" Height="80" />
+        <Frame X="400" Y="0" Width="80" Height="80" />
+        <Frame X="480" Y="0" Width="80" Height="80" />
+        <Frame X="560" Y="0" Width="80" Height="80" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="a_3" Name="a_3" PointX="0" PointY="0">
+        <Frame X="36" Y="0" Width="36" Height="32" />
+        <Frame X="72" Y="0" Width="36" Height="32" />
+        <Frame X="108" Y="0" Width="36" Height="32" />
+        <Frame X="144" Y="0" Width="36" Height="32" />
+        <Frame X="180" Y="0" Width="36" Height="32" />
+        <Frame X="216" Y="0" Width="36" Height="32" />
+        <Frame X="252" Y="0" Width="36" Height="32" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="a_4" Name="a_4" PointX="0" PointY="0">
+        <Frame X="168" Y="0" Width="168" Height="190" />
+        <Frame X="336" Y="0" Width="168" Height="190" />
+        <Frame X="504" Y="0" Width="168" Height="190" />
+        <Frame X="672" Y="0" Width="168" Height="190" />
+        <Frame X="840" Y="0" Width="168" Height="190" />
+        <Frame X="1008" Y="0" Width="168" Height="190" />
+    </SpriteInfo>
+
+
+    <SpriteInfo Name="PeaLv1" ImageName="B_Pea1" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="29" Height="22" />
+    </SpriteInfo>
+    <SpriteInfo Name="PeaLv2" ImageName="B_Pea2" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="29" Height="22" />
+    </SpriteInfo>
+    <SpriteInfo Name="PeaLv3" ImageName="B_Pea3" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="29" Height="22" />
+    </SpriteInfo>
+    
+    
+    
+    <SpriteInfo Name="Null" ImageName="null" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="0" Height="0" />
+    </SpriteInfo>
+    
+    
+    
+    
+    <SpriteInfo Name="soundOff" ImageName="soundOff" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="60" Height="60" />
+    </SpriteInfo>
+    <SpriteInfo Name="soundOn" ImageName="soundOn" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="60" Height="60" />
+    </SpriteInfo>
+    <SpriteInfo Name="speddFast" ImageName="speddFast" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="64" Height="64" />
+    </SpriteInfo>
+    <SpriteInfo Name="speddNormal" ImageName="speddNormal" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="64" Height="64" />
+    </SpriteInfo>
+    <SpriteInfo Name="pause" ImageName="pause" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="64" Height="64" />
+    </SpriteInfo>
+    <SpriteInfo Name="play" ImageName="play" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="64" Height="64" />
+    </SpriteInfo>
+    <SpriteInfo Name="menu" ImageName="menu" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="64" Height="64" />
+    </SpriteInfo>
+    
+    
+    
+    
+    <SpriteInfo Name="win_lost_bg" ImageName="win_lost_bg" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="1024" Height="768" />
+    </SpriteInfo>
+    <SpriteInfo Name="text_lost" ImageName="text_lost" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="680" Height="86" />
+    </SpriteInfo>
+    <SpriteInfo Name="text_victory" ImageName="text_victory" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="680" Height="86" />
+    </SpriteInfo>
+    
+    
+    
+
+    
+    <!-- ICE SPRITES -->
+    
+    
+    <SpriteInfo Name="ice_attack_level1" ImageName="ice_attack_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="78" Height="101" />
+        <Frame X="78" Y="0" Width="75" Height="93" />
+        <Frame X="153" Y="0" Width="81" Height="106" />
+        <Frame X="234" Y="0" Width="88" Height="113" />
+        <Frame X="322" Y="0" Width="124" Height="125" />
+        <Frame X="446" Y="0" Width="154" Height="145" />
+        <Frame X="600" Y="0" Width="176" Height="157" />
+        <Frame X="776" Y="0" Width="174" Height="158" />
+        <Frame X="0" Y="158" Width="178" Height="166" />
+        <Frame X="178" Y="158" Width="178" Height="167" />
+        <Frame X="356" Y="158" Width="178" Height="174" />
+        <Frame X="534" Y="158" Width="178" Height="168" />
+        <Frame X="712" Y="158" Width="82" Height="112" />
+    </SpriteInfo>
+    <SpriteInfo Name="ice_attack_level2" ImageName="ice_attack_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="90" Height="101" />
+        <Frame X="90" Y="0" Width="82" Height="95" />
+        <Frame X="172" Y="0" Width="96" Height="106" />
+        <Frame X="268" Y="0" Width="102" Height="113" />
+        <Frame X="370" Y="0" Width="124" Height="126" />
+        <Frame X="494" Y="0" Width="155" Height="146" />
+        <Frame X="649" Y="0" Width="175" Height="157" />
+        <Frame X="824" Y="0" Width="174" Height="162" />
+        <Frame X="0" Y="162" Width="177" Height="163" />
+        <Frame X="177" Y="162" Width="178" Height="168" />
+        <Frame X="355" Y="162" Width="178" Height="170" />
+        <Frame X="533" Y="162" Width="178" Height="171" />
+        <Frame X="711" Y="162" Width="99" Height="112" />
+    </SpriteInfo>
+    <SpriteInfo Name="ice_attack_level3" ImageName="ice_attack_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="96" Height="118" />
+        <Frame X="96" Y="0" Width="88" Height="117" />
+        <Frame X="184" Y="0" Width="100" Height="119" />
+        <Frame X="284" Y="0" Width="102" Height="116" />
+        <Frame X="386" Y="0" Width="124" Height="126" />
+        <Frame X="510" Y="0" Width="155" Height="145" />
+        <Frame X="665" Y="0" Width="175" Height="155" />
+        <Frame X="840" Y="0" Width="174" Height="160" />
+        <Frame X="0" Y="160" Width="178" Height="165" />
+        <Frame X="178" Y="160" Width="178" Height="167" />
+        <Frame X="356" Y="160" Width="177" Height="170" />
+        <Frame X="533" Y="160" Width="178" Height="168" />
+        <Frame X="711" Y="160" Width="103" Height="119" />
+    </SpriteInfo>
+    <SpriteInfo Name="ice_idle_level1" ImageName="ice_idle_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="78" Height="101" />
+    </SpriteInfo>
+    <SpriteInfo Name="ice_idle_level2" ImageName="ice_idle_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="90" Height="101" />
+    </SpriteInfo>
+    <SpriteInfo Name="ice_idle_level3" ImageName="ice_idle_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="96" Height="118" />
+    </SpriteInfo>
+
+
+    
+    <!-- MORTAL SPRITES -->
+    
+    
+    <SpriteInfo Name="mortal_attack_level1" ImageName="mortal_attack_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="108" Height="97" />
+        <Frame X="108" Y="0" Width="108" Height="97" />
+        <Frame X="216" Y="0" Width="108" Height="97" />
+        <Frame X="324" Y="0" Width="109" Height="97" />
+        <Frame X="433" Y="0" Width="108" Height="97" />
+        <Frame X="541" Y="0" Width="108" Height="97" />
+        <Frame X="649" Y="0" Width="108" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="mortal_attack_level2" ImageName="mortal_attack_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="108" Height="97" />
+        <Frame X="108" Y="0" Width="109" Height="103" />
+        <Frame X="217" Y="0" Width="109" Height="110" />
+        <Frame X="326" Y="0" Width="109" Height="111" />
+        <Frame X="435" Y="0" Width="109" Height="111" />
+        <Frame X="544" Y="0" Width="108" Height="103" />
+        <Frame X="652" Y="0" Width="108" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="mortal_attack_level3" ImageName="mortal_attack_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="109" Height="100" />
+        <Frame X="109" Y="0" Width="109" Height="112" />
+        <Frame X="218" Y="0" Width="109" Height="125" />
+        <Frame X="327" Y="0" Width="109" Height="125" />
+        <Frame X="436" Y="0" Width="109" Height="125" />
+        <Frame X="545" Y="0" Width="108" Height="112" />
+        <Frame X="653" Y="0" Width="108" Height="100" />
+    </SpriteInfo>
+    <SpriteInfo Name="mortal_idle_level1" ImageName="mortal_idle_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="108" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="mortal_idle_level2" ImageName="mortal_idle_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="108" Height="97" />
+    </SpriteInfo>
+    <SpriteInfo Name="mortal_idle_level3" ImageName="mortal_idle_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="108" Height="97" />
+        <Frame X="108" Y="0" Width="108" Height="98" />
+        <Frame X="216" Y="0" Width="109" Height="100" />
+        <Frame X="325" Y="0" Width="108" Height="98" />
+    </SpriteInfo>
+
+
+    
+    <!-- LAVA SPRITES -->
+    
+    
+    <SpriteInfo Name="lava_attack_level1" ImageName="lava_attack_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="105" Height="112" />
+        <Frame X="105" Y="0" Width="104" Height="114" />
+        <Frame X="209" Y="0" Width="105" Height="116" />
+        <Frame X="314" Y="0" Width="125" Height="126" />
+        <Frame X="439" Y="0" Width="126" Height="126" />
+        <Frame X="565" Y="0" Width="127" Height="126" />
+        <Frame X="692" Y="0" Width="127" Height="126" />
+        <Frame X="819" Y="0" Width="125" Height="125" />
+        <Frame X="0" Y="126" Width="121" Height="125" />
+        <Frame X="121" Y="126" Width="104" Height="112" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_attack_level2" ImageName="lava_attack_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="106" Height="113" />
+        <Frame X="106" Y="0" Width="106" Height="114" />
+        <Frame X="212" Y="0" Width="106" Height="116" />
+        <Frame X="318" Y="0" Width="126" Height="127" />
+        <Frame X="444" Y="0" Width="126" Height="127" />
+        <Frame X="570" Y="0" Width="127" Height="126" />
+        <Frame X="697" Y="0" Width="126" Height="126" />
+        <Frame X="823" Y="0" Width="126" Height="126" />
+        <Frame X="0" Y="127" Width="124" Height="125" />
+        <Frame X="124" Y="127" Width="106" Height="113" />
+        <Frame X="230" Y="127" Width="106" Height="113" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_attack_level3" ImageName="lava_attack_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="106" Height="131" />
+        <Frame X="106" Y="0" Width="106" Height="133" />
+        <Frame X="212" Y="0" Width="106" Height="135" />
+        <Frame X="318" Y="0" Width="125" Height="129" />
+        <Frame X="443" Y="0" Width="126" Height="127" />
+        <Frame X="569" Y="0" Width="125" Height="127" />
+        <Frame X="694" Y="0" Width="127" Height="127" />
+        <Frame X="821" Y="0" Width="127" Height="127" />
+        <Frame X="0" Y="135" Width="122" Height="129" />
+        <Frame X="122" Y="135" Width="106" Height="130" />
+        <Frame X="228" Y="135" Width="106" Height="131" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_idle_level1" ImageName="lava_idle_level1_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="105" Height="112" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_idle_level2" ImageName="lava_idle_level2_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="106" Height="113" />
+    </SpriteInfo>
+    <SpriteInfo Name="lava_idle_level3" ImageName="lava_idle_level3_image" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="106" Height="131" />
+    </SpriteInfo>
+    
+    
+    <!-- SOLDIER SPRITES -->
+    
+    
+    
+    <SpriteInfo ImageName="soldier_move_left_image" Name="soldier_move_left" PointX="0" PointY="0">
+        <Frame Height="53" Width="38" Y="0" X="0"/>
+        <Frame Height="57" Width="34" Y="0" X="38"/>
+        <Frame Height="58" Width="32" Y="0" X="72"/>
+        <Frame Height="57" Width="37" Y="0" X="104"/>
+        <Frame Height="55" Width="37" Y="0" X="141"/>
+        <Frame Height="53" Width="36" Y="0" X="178"/>
+        <Frame Height="53" Width="38" Y="0" X="214"/>
+        <Frame Height="55" Width="36" Y="0" X="252"/>
+        <Frame Height="57" Width="35" Y="0" X="288"/>
+        <Frame Height="57" Width="37" Y="0" X="323"/>
+        <Frame Height="55" Width="38" Y="0" X="360"/>
+        <Frame Height="53" Width="34" Y="0" X="398"/>
+    </SpriteInfo>
+    <SpriteInfo ImageName="soldier_move_right_image" Name="soldier_move_right" PointX="0" PointY="0">
+        <Frame Height="53" Width="34" Y="0" X="0"/>
+        <Frame Height="55" Width="38" Y="0" X="34"/>
+        <Frame Height="57" Width="37" Y="0" X="72"/>
+        <Frame Height="57" Width="35" Y="0" X="109"/>
+        <Frame Height="55" Width="36" Y="0" X="144"/>
+        <Frame Height="53" Width="38" Y="0" X="180"/>
+        <Frame Height="53" Width="36" Y="0" X="218"/>
+        <Frame Height="55" Width="37" Y="0" X="254"/>
+        <Frame Height="57" Width="37" Y="0" X="291"/>
+        <Frame Height="58" Width="32" Y="0" X="328"/>
+        <Frame Height="57" Width="34" Y="0" X="360"/>
+        <Frame Height="53" Width="38" Y="0" X="394"/>
+    </SpriteInfo>
+    <SpriteInfo ImageName="soldier_move_up_image" Name="soldier_move_up" PointX="0" PointY="0">
+        <Frame Height="57" Width="24" Y="0" X="0"/>
+        <Frame Height="56" Width="25" Y="0" X="24"/>
+        <Frame Height="56" Width="29" Y="0" X="49"/>
+        <Frame Height="55" Width="31" Y="0" X="78"/>
+        <Frame Height="55" Width="30" Y="0" X="109"/>
+        <Frame Height="55" Width="25" Y="0" X="139"/>
+        <Frame Height="57" Width="25" Y="0" X="164"/>
+        <Frame Height="57" Width="27" Y="0" X="189"/>
+        <Frame Height="58" Width="29" Y="0" X="216"/>
+        <Frame Height="56" Width="29" Y="0" X="245"/>
+        <Frame Height="54" Width="26" Y="0" X="274"/>
+        <Frame Height="54" Width="25" Y="0" X="300"/>
+    </SpriteInfo>
+    <SpriteInfo ImageName="soldier_move_down_image" Name="soldier_move_down" PointX="0" PointY="0">
+        <Frame Height="58" Width="23" Y="0" X="0"/>
+        <Frame Height="59" Width="26" Y="0" X="23"/>
+        <Frame Height="58" Width="29" Y="0" X="49"/>
+        <Frame Height="56" Width="31" Y="0" X="78"/>
+        <Frame Height="56" Width="30" Y="0" X="109"/>
+        <Frame Height="56" Width="25" Y="0" X="139"/>
+        <Frame Height="56" Width="24" Y="0" X="164"/>
+        <Frame Height="58" Width="27" Y="0" X="188"/>
+        <Frame Height="58" Width="29" Y="0" X="215"/>
+        <Frame Height="56" Width="29" Y="0" X="244"/>
+        <Frame Height="58" Width="26" Y="0" X="273"/>
+        <Frame Height="59" Width="24" Y="0" X="299"/>
+    </SpriteInfo>
+    
+    
+    <!-- HEAVY SOLDIER SPRITES -->
+    
+    
+    
+    <SpriteInfo ImageName="heavy_soldier_move_left_image" Name="heavy_soldier_move_left" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="47" Height="75" />
+        <Frame X="47" Y="0" Width="48" Height="74" />
+        <Frame X="95" Y="0" Width="56" Height="74" />
+        <Frame X="151" Y="0" Width="62" Height="76" />
+        <Frame X="213" Y="0" Width="58" Height="78" />
+        <Frame X="271" Y="0" Width="53" Height="80" />
+        <Frame X="324" Y="0" Width="46" Height="80" />
+        <Frame X="370" Y="0" Width="42" Height="79" />
+        <Frame X="412" Y="0" Width="42" Height="76" />
+        <Frame X="454" Y="0" Width="45" Height="76" />
+        <Frame X="499" Y="0" Width="49" Height="76" />
+        <Frame X="548" Y="0" Width="58" Height="76" />
+        <Frame X="606" Y="0" Width="67" Height="77" />
+        <Frame X="673" Y="0" Width="62" Height="79" />
+        <Frame X="735" Y="0" Width="55" Height="80" />
+        <Frame X="790" Y="0" Width="48" Height="79" />
+        <Frame X="838" Y="0" Width="45" Height="76" />
+        <Frame X="883" Y="0" Width="47" Height="75" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_soldier_move_right_image" Name="heavy_soldier_move_right" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="47" Height="75" />
+        <Frame X="47" Y="0" Width="45" Height="76" />
+        <Frame X="92" Y="0" Width="48" Height="79" />
+        <Frame X="140" Y="0" Width="55" Height="80" />
+        <Frame X="195" Y="0" Width="62" Height="79" />
+        <Frame X="257" Y="0" Width="67" Height="77" />
+        <Frame X="324" Y="0" Width="58" Height="76" />
+        <Frame X="382" Y="0" Width="49" Height="76" />
+        <Frame X="431" Y="0" Width="45" Height="76" />
+        <Frame X="476" Y="0" Width="42" Height="76" />
+        <Frame X="518" Y="0" Width="42" Height="79" />
+        <Frame X="560" Y="0" Width="46" Height="80" />
+        <Frame X="606" Y="0" Width="53" Height="80" />
+        <Frame X="659" Y="0" Width="58" Height="78" />
+        <Frame X="717" Y="0" Width="62" Height="76" />
+        <Frame X="779" Y="0" Width="56" Height="74" />
+        <Frame X="835" Y="0" Width="48" Height="74" />
+        <Frame X="883" Y="0" Width="47" Height="75" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_soldier_move_up_image" Name="heavy_soldier_move_up" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="62" Height="64" />
+        <Frame X="62" Y="0" Width="62" Height="65" />
+        <Frame X="124" Y="0" Width="61" Height="68" />
+        <Frame X="185" Y="0" Width="60" Height="74" />
+        <Frame X="245" Y="0" Width="59" Height="79" />
+        <Frame X="304" Y="0" Width="59" Height="82" />
+        <Frame X="363" Y="0" Width="59" Height="73" />
+        <Frame X="422" Y="0" Width="59" Height="66" />
+        <Frame X="481" Y="0" Width="62" Height="66" />
+        <Frame X="543" Y="0" Width="61" Height="64" />
+        <Frame X="604" Y="0" Width="63" Height="66" />
+        <Frame X="667" Y="0" Width="62" Height="70" />
+        <Frame X="729" Y="0" Width="62" Height="75" />
+        <Frame X="791" Y="0" Width="63" Height="76" />
+        <Frame X="854" Y="0" Width="62" Height="75" />
+        <Frame X="916" Y="0" Width="62" Height="70" />
+        <Frame X="0" Y="82" Width="62" Height="64" />
+        <Frame X="62" Y="82" Width="62" Height="64" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_soldier_move_down_image" Name="heavy_soldier_move_down" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="63" Height="60" />
+        <Frame X="63" Y="0" Width="63" Height="60" />
+        <Frame X="126" Y="0" Width="61" Height="64" />
+        <Frame X="187" Y="0" Width="61" Height="68" />
+        <Frame X="248" Y="0" Width="60" Height="71" />
+        <Frame X="308" Y="0" Width="59" Height="70" />
+        <Frame X="367" Y="0" Width="60" Height="66" />
+        <Frame X="427" Y="0" Width="60" Height="63" />
+        <Frame X="487" Y="0" Width="61" Height="60" />
+        <Frame X="548" Y="0" Width="61" Height="58" />
+        <Frame X="609" Y="0" Width="63" Height="59" />
+        <Frame X="672" Y="0" Width="63" Height="63" />
+        <Frame X="735" Y="0" Width="63" Height="68" />
+        <Frame X="798" Y="0" Width="64" Height="68" />
+        <Frame X="862" Y="0" Width="64" Height="67" />
+        <Frame X="926" Y="0" Width="64" Height="64" />
+        <Frame X="0" Y="71" Width="64" Height="62" />
+        <Frame X="64" Y="71" Width="63" Height="60" />
+    </SpriteInfo>
+    
+    
+    <!-- HEAVY ICEBIKE SPRITES -->
+    
+    
+    
+    <SpriteInfo ImageName="heavy_icebike_move_right_image" Name="heavy_icebike_move_right" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="109" Height="80" />
+        <Frame X="109" Y="0" Width="109" Height="78" />
+        <Frame X="218" Y="0" Width="109" Height="78" />
+        <Frame X="327" Y="0" Width="109" Height="79" />
+        <Frame X="436" Y="0" Width="109" Height="80" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_icebike_move_left_image" Name="heavy_icebike_move_left" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="109" Height="80" />
+        <Frame X="109" Y="0" Width="109" Height="79" />
+        <Frame X="218" Y="0" Width="109" Height="78" />
+        <Frame X="327" Y="0" Width="109" Height="78" />
+        <Frame X="436" Y="0" Width="109" Height="80" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_icebike_move_up_image" Name="heavy_icebike_move_up" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="68" Height="91" />
+        <Frame X="68" Y="0" Width="67" Height="91" />
+        <Frame X="135" Y="0" Width="67" Height="91" />
+        <Frame X="202" Y="0" Width="67" Height="90" />
+        <Frame X="269" Y="0" Width="68" Height="90" />
+    </SpriteInfo>
+    <SpriteInfo ImageName="heavy_icebike_move_down_image" Name="heavy_icebike_move_down" PointX="0" PointY="0">
+        <Frame X="0" Y="0" Width="68" Height="99" />
+        <Frame X="68" Y="0" Width="68" Height="99" />
+        <Frame X="136" Y="0" Width="66" Height="99" />
+        <Frame X="202" Y="0" Width="66" Height="99" />
+        <Frame X="268" Y="0" Width="67" Height="99" />
+    </SpriteInfo>
+</SpriteData>

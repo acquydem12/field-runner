@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Towers>
+	<Tower Name="Gun" ShineName="Mortal" nOfDirect="1"
+               SearchRadius="300" ShootDelay="100" Price="5" AttackSound="laser_zap_01">
+            <MissileLv1>GunBulletLv1</MissileLv1>
+            <MissileLv2>GunBulletLv2</MissileLv2>
+            <MissileLv3>GunBulletLv3</MissileLv3>
+            <AttackPosition X="50" Y="50" />
+        </Tower>
+        
+	<Tower Name="Slow" ShineName="Ice" nOfDirect="1"
+               SearchRadius="300" ShootDelay="100" Price="10" AttackSound="laser_zap_01">
+            <MissileLv1>SlowMSLevel1</MissileLv1>
+            <MissileLv2>SlowMSLevel2</MissileLv2>
+            <MissileLv3>SlowMSLevel3</MissileLv3>
+            <AttackPosition X="50" Y="50" />
+        </Tower>
+        
+	<Tower Name="Missile" ShineName="Lava" nOfDirect="1"
+               SearchRadius="600" ShootDelay="150" Price="20" AttackSound="laser_zap_01">
+            <MissileLv1>MissileMSLevel1</MissileLv1>
+            <MissileLv2>MissileMSLevel2</MissileLv2>
+            <MissileLv3>MissileMSLevel3</MissileLv3>
+            <AttackPosition X="50" Y="50" />
+        </Tower>
+</Towers>
